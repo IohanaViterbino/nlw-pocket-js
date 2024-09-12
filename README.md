@@ -16,8 +16,8 @@ App de controles de metas semanais. Projeto da Rocket Seat da edição do NLW Po
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/IohanaViterbino/nlw-pocket-js.git
+   cd nlw-pocket-js
    ```
 
 2. **Instale as dependências:**
