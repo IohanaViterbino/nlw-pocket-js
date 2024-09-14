@@ -20,7 +20,7 @@ App de controles de metas semanais. Projeto da Rocket Seat da edição do NLW Po
    cd nlw-pocket-js
    ```
 
-2. **Instale as dependências:**
+2. **Instale as dependências:** em ambos os projetos
    ```bash
    npm install
    ```
@@ -46,7 +46,7 @@ App de controles de metas semanais. Projeto da Rocket Seat da edição do NLW Po
     npm run seed
    ```
 
-7. **Inicie o servidor de desenvolvimento:**
+7. **Inicie o servidor de desenvolvimento:** Tantno web quanto no server.
    ```bash
    npm run dev
    ```
