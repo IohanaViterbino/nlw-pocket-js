@@ -11,7 +11,7 @@ async function seed() {
     .values([
       { title: 'Beber + 2,5l de água', desiredWeeklyFrequency: 3 },
       {
-        title: 'Estudar mais sobre Django Rest framework',
+        title: 'Estudar mais sobre DRF',
         desiredWeeklyFrequency: 5,
       },
       { title: 'Jogar Genshin Impact', desiredWeeklyFrequency: 7 },
